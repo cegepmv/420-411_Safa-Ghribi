@@ -1,2 +1,1 @@
-# 420-411 Safa Ghribi
-Cours Interfaces Humain Machine Hiver 2026
+[Plan de cours](plan.pdf)
