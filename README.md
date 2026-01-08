@@ -6,7 +6,7 @@
 
 - **Semaine 1 – Introduction à l’IHM**
   - [Définition et objectifs](Définitions/interfaces-humain-machine.md)
-  - [Exemples d’IHM](weeks/week01-examples.md)
+  - [UI, UX et interfaces interactives](Définitions/uiVSux.md)
 
 - **Semaine 2 – UX et UI**
   - [UX vs UI](weeks/week02-ux-ui.md)
