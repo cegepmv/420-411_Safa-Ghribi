@@ -8,8 +8,8 @@
   - [Définition et objectifs](Définitions/interfaces-humain-machine.md)
   - [UI, UX et interfaces interactives](Définitions/uiVSux.md)
 
-- **Semaine 2 – UX et UI**
-  - [UX vs UI](weeks/week02-ux-ui.md)
+- **Semaine 2 – Principes de design d'interfaces*
+  - [Worflow de design d'interfaces](Principes-design-interfaces/workflow.md)
   - [Bonnes pratiques](weeks/week02-best-practices.md)
 
 - **Semaine 3 – Principes de design**
