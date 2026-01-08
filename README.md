@@ -1,18 +1,37 @@
 [Plan de cours](plan.pdf)
 
-# Structure de cours
+## Structure du cours
 
-├── [README.md](README.md)
-├── Définitions/
-│   ├── [Interfaces Humain-Machine.md](Définitions/interfaces-humain-machine.md)
-│   ├── [week02-ux-ui.md](weeks/week02-ux-ui.md)
-│   └── [week03-nielsen-gestalt.md](weeks/week03-nielsen-gestalt.md)
-├── labs/
-│   ├── [lab01-interface-analysis.md](labs/lab01-interface-analysis.md)
-│   └── [lab02-figma.md](labs/lab02-figma.md)
-└── projects/
-    └── smart-plant/
-        ├── [brief.md](projects/smart-plant/brief.md)
-        └── [rubric.md](projects/smart-plant/rubric.md)
+### 📘 Semaines
+
+- **Semaine 1 – Introduction à l’IHM**
+  - [Définition et objectifs](Définitions/interfaces-humain-machine.md)
+  - [Exemples d’IHM](weeks/week01-examples.md)
+
+- **Semaine 2 – UX et UI**
+  - [UX vs UI](weeks/week02-ux-ui.md)
+  - [Bonnes pratiques](weeks/week02-best-practices.md)
+
+- **Semaine 3 – Principes de design**
+  - [Heuristiques de Nielsen](weeks/week03-nielsen.md)
+  - [Lois de Gestalt](weeks/week03-gestalt.md)
+
+---
+
+### 🧪 Travaux pratiques
+
+- **TP 1**
+  - [Audit d’interface](labs/lab01-audit.md)
+
+- **TP 2**
+  - [Prototypage avec Figma](labs/lab02-figma.md)
+
+---
+
+### 🚀 Projet
+
+- **Projet final – Plante intelligente**
+  - [Description du projet](projects/smart-plant/brief.md)
+  - [Critères d’évaluation](projects/smart-plant/rubric.md)
 
 
