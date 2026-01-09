@@ -1,5 +1,3 @@
-# UX, UI et Interfaces Interactives
-
 ## 1. UX – User Experience (Expérience utilisateur)
 
 ### Définition
