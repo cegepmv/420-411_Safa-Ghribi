@@ -1,4 +1,3 @@
-# Principes fondamentaux du design d’interfaces  
 *Apprendre par l’observation et la déduction*
 
 Dans ce chapitre, chaque principe est introduit par **un exemple d’interface problématique**.  
