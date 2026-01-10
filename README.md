@@ -10,7 +10,7 @@
 
 - **Semaine 2 – Principes de design d'interfaces**
   - [Worflow de design d'interfaces](Principes-design-interfaces/workflow.md)
-  - [Bonnes pratiques](weeks/week02-best-practices.md)
+  - [Principes fondamentaux du design d’interfaces ](Principes-design-interfaces/principes-design)
 
 - **Semaine 3 – Principes de design**
   - [Heuristiques de Nielsen](weeks/week03-nielsen.md)
