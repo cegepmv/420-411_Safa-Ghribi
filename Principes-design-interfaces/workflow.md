@@ -78,7 +78,7 @@ Définir **les étapes que l’utilisateur suit** pour atteindre son objectif.
 
 > Le user flow aide à **visualiser le parcours et repérer les points de friction**.
 
-![user flow](Principes-design-interfaces/flow.png)
+![user flow](flow.png)
 
 ---
 
