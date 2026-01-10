@@ -1,14 +1,4 @@
-*Apprendre par l’observation et la déduction*
-
-Dans ce chapitre, chaque principe est introduit par **un exemple d’interface problématique**.  
-Avant de lire la définition, l’étudiant doit :
-- observer l’interface,
-- identifier ce qui pose problème,
-- deviner quel principe de design est manquant ou mal appliqué.
-
----
-
-## 🧠 Principe 1 – Charge cognitive
+## 🧠 Principe 1
 
 ### Exemple
 
@@ -16,12 +6,10 @@ Avant de lire la définition, l’étudiant doit :
 
 ### Question pour l’étudiant
 - Que ressentez-vous en regardant cette interface ?
-- Est-il facile de savoir quoi faire ?
-- Pourquoi cette interface peut fatiguer l’utilisateur ?
 
 ---
 
-### ✅ Définition (à lire après réflexion)
+### ✅ Définition
 
 **La charge cognitive** correspond à la quantité d’effort mental nécessaire pour comprendre et utiliser une interface.  
 Une bonne interface **réduit la charge cognitive** en :
@@ -31,7 +19,7 @@ Une bonne interface **réduit la charge cognitive** en :
 
 ---
 
-## 🔔 Principe 2 – Feedback
+## 🔔 Principe 2
 
 ### Exemple
 
@@ -39,8 +27,6 @@ Une bonne interface **réduit la charge cognitive** en :
 
 ### Question pour l’étudiant
 - Que se passe-t-il après avoir cliqué sur le bouton ?
-- L’utilisateur sait-il si son action a été prise en compte ?
-- Que manque-t-il à cette interface ?
 
 ---
 
@@ -54,7 +40,7 @@ Il permet de :
 
 ---
 
-## ✋ Principe 3 – Affordance
+## ✋ Principe 3
 
 ### Exemple
 
@@ -74,7 +60,7 @@ Un bouton doit ressembler à un bouton, un champ de texte à un champ de texte.
 
 ---
 
-## 🚧 Principe 4 – Contraintes
+## 🚧 Principe 4
 
 ### Exemple
 
@@ -93,107 +79,3 @@ Les **contraintes** limitent les actions possibles pour éviter les erreurs.
 Une bonne interface **empêche l’erreur plutôt que de la corriger après**.
 
 ---
-
-## 🧭 Principe 5 – Visibilité de l’état du système (Nielsen)
-
-### Exemple
-
-![État du système invisible](images/etat-systeme.png)
-
-### Question pour l’étudiant
-- Savez-vous ce que fait le système en ce moment ?
-- L’attente est-elle claire ?
-- Que pourrait-on ajouter ?
-
----
-
-### ✅ Définition
-
-Une interface doit toujours **informer l’utilisateur de l’état du système**  
-(ex : chargement, succès, erreur, progression).
-
----
-
-## 🧩 Principe 6 – Lois de Gestalt
-
-### Exemple
-
-![Gestalt non respectée](images/gestalt.png)
-
-### Question pour l’étudiant
-- Quels éléments vont ensemble ?
-- Est-ce évident visuellement ?
-- Pourquoi la lecture est-elle difficile ?
-
----
-
-### ✅ Définition
-
-Les **lois de Gestalt** expliquent comment l’humain perçoit les formes et les groupes.  
-Elles incluent :
-- proximité
-- similarité
-- continuité
-- fermeture
-
-Elles permettent de **structurer visuellement l’information**.
-
----
-
-## ♿ Principe 7 – Accessibilité
-
-### Exemple
-
-![Problème d’accessibilité](images/accessibilite.png)
-
-### Question pour l’étudiant
-- Tout le monde peut-il utiliser cette interface ?
-- Que se passe-t-il pour une personne malvoyante ?
-- Le contraste est-il suffisant ?
-
----
-
-### ✅ Définition
-
-L’**accessibilité** vise à rendre l’interface utilisable par **le plus grand nombre**,  
-y compris les personnes ayant :
-- déficience visuelle,
-- motrice,
-- cognitive.
-
----
-
-## 🌍 Principe 8 – Inclusivité
-
-### Exemple
-
-![Design non inclusif](images/inclusivite.png)
-
-### Question pour l’étudiant
-- Qui est exclu par ce design ?
-- Les choix sont-ils culturellement neutres ?
-- Peut-on s’identifier à l’interface ?
-
----
-
-### ✅ Définition
-
-Le **design inclusif** prend en compte la diversité :
-- âge
-- culture
-- genre
-- capacités
-
-Il ne conçoit pas pour un utilisateur « moyen », mais pour des **utilisateurs réels et variés**.
-
----
-
-## 🎯 Conclusion
-
-Un bon design :
-- anticipe les erreurs,
-- guide l’utilisateur,
-- réduit l’effort mental,
-- respecte la diversité humaine.
-
-> **Un bon design est souvent invisible. Un mauvais design saute aux yeux.**
