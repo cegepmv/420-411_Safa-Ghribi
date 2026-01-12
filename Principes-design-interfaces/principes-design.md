@@ -79,3 +79,156 @@ Les **contraintes** limitent les actions possibles pour éviter les erreurs.
 Une bonne interface **empêche l’erreur plutôt que de la corriger après**.
 
 ---
+
+## 🧩 Principe 5
+
+### Exemple
+
+![Gestalt non respectée](images/gestalt.png)
+
+### Question pour l’étudiant
+- Quels éléments vont ensemble ?
+- Est-ce évident visuellement ?
+- Pourquoi la lecture est-elle difficile ?
+
+---
+
+### ✅ Définition
+
+Les **lois de Gestalt** expliquent comment l’humain perçoit les formes et les groupes.  
+Elles incluent :
+- proximité
+- similarité
+- continuité
+- fermeture
+
+
+1. Espacements & mise en page (Layout)
+📏 Espacements
+
+On utilise presque toujours une grille et un système d’espacement cohérent.
+
+Règles courantes :
+
+Utiliser une grille de 8 px (8, 16, 24, 32, 48…)
+
+L’espace entre des éléments liés < espace entre des groupes différents
+
+Ne jamais utiliser des espacements “au hasard” (ex : 13px, 19px)
+
+👉 Principe clé : la proximité = relation (loi de Gestalt)
+
+🧱 Alignement
+
+Éviter les alignements approximatifs
+
+Aligner sur une grille verticale et horizontale
+
+Moins d’alignements = interface plus lisible
+
+2. Couleurs
+🎨 Règles fondamentales
+
+1 couleur principale
+
+1–2 couleurs secondaires
+
+Couleurs neutres (gris, blanc, noir) pour le reste
+
+Contraste & accessibilité
+
+Texte / fond : contraste minimum WCAG AA
+
+Ne jamais transmettre une information uniquement par la couleur
+
+👉 Exemples :
+
+Rouge ≠ seule indication d’erreur
+
+Vert ≠ seul indicateur de succès
+
+Cohérence sémantique
+
+Rouge → danger / erreur
+
+Vert → succès / validation
+
+Bleu → action / lien (le plus universel)
+
+3. Typographie
+🅰️ Règles essentielles
+
+1 ou 2 polices maximum
+
+Taille minimum texte : 14–16 px
+
+Hauteur de ligne : 1.4 à 1.6
+
+Hiérarchie claire
+
+Titres visibles sans lire le texte
+
+Différences nettes entre :
+
+Titre
+
+Sous-titre
+
+Corps
+
+Légende
+
+👉 Si tout a l’air important → rien ne l’est
+
+4. Nombre de clics & parcours utilisateur
+🖱️ Le mythe des “3 clics”
+
+❌ Ce n’est pas une vraie règle
+
+✅ La vraie règle :
+
+L’utilisateur accepte plus de clics si le chemin est clair et logique
+
+Bonnes pratiques
+
+Action principale accessible en 1 clic
+
+Éviter les menus trop profonds
+
+Toujours indiquer “où on est” et “où on va”
+
+5. Simplicité & charge cognitive
+🧠 Loi de Hick
+
+Plus il y a de choix, plus la décision est lente
+
+👉 Solutions :
+
+Regrouper les options
+
+Masquer l’avancé (progressive disclosure)
+
+Prioriser une action principale
+
+6. Boutons & interactions
+🔘 Boutons
+
+Taille minimale tactile : 44×44 px
+
+Un bouton principal par écran
+
+États visibles :
+
+normal
+
+hover
+
+actif
+
+désactivé
+
+Feedback utilisateur
+
+Chaque action doit provoquer une réponse visuelle
+
+Jamais de clic “silencieux”
