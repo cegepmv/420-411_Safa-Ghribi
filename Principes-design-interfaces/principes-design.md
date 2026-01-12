@@ -101,6 +101,8 @@ Elles incluent :
 - similarité
 - continuité
 - fermeture
+  
+---
 
 ## 🧩 Principe 6
 
@@ -128,7 +130,7 @@ Elles incluent :
 - Aider à reconnaître, diagnostiquer et corriger les erreurs
 - Aide et documentation
 
-
+---
 ## 📏 Espacements
 
 - On utilise presque toujours une grille et un système d’espacement cohérent.
@@ -143,6 +145,8 @@ Elles incluent :
 
 👉 Principe clé : la proximité = relation (loi de Gestalt)
 
+---
+
 ## 🧱 Alignement
 
 - Éviter les alignements approximatifs
@@ -151,6 +155,7 @@ Elles incluent :
 
 - Moins d’alignements = interface plus lisible
 
+---
 
 ## 🎨 Règles fondamentales
 
@@ -176,6 +181,8 @@ Vert → succès / validation
 
 Bleu → action / lien (le plus universel)
 
+---
+
 ## 🅰️ Règles essentielles
 
 - 1 ou 2 polices maximum
@@ -189,6 +196,8 @@ Bleu → action / lien (le plus universel)
 - Titres visibles sans lire le texte
 
 👉 Si tout a l’air important → rien ne l’est
+
+---
 
 ## 🖱️ Le mythe des “3 clics”
 
@@ -206,6 +215,8 @@ Bonnes pratiques
 
 * Toujours indiquer “où on est” et “où on va”
 
+---
+
 ## 🧠 Loi de Hick
 
 Plus il y a de choix, plus la décision est lente
@@ -217,6 +228,8 @@ Plus il y a de choix, plus la décision est lente
 - Masquer l’avancé (progressive disclosure)
 
 - Prioriser une action principale
+
+---
 
 ## 🔘 Boutons
 
