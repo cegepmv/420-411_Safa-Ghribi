@@ -57,3 +57,41 @@ L’**accessibilité des interfaces** consiste à concevoir des interfaces numé
 - Une seule main disponible
 
 ---
+
+## WCAG : Web Content Accessibility Guidelines
+
+- Standard international créé par le **W3C** pour rendre les sites web accessibles.  
+- Basé sur les 4 principes ci-dessus : **Perceptible, Utilisable, Compréhensible, Robuste**.  
+- Trois niveaux de conformité :
+  - **A** : minimum requis  
+  - **AA** : niveau standard recommandé  
+  - **AAA** : niveau optimal, toutes les bonnes pratiques  
+
+> Les sites professionnels et éducatifs doivent viser **au moins le niveau AA**.
+
+---
+
+## Lois sur l’accessibilité
+
+### Canada 🇨🇦
+- **Loi canadienne sur l’accessibilité (LACC)** : obligatoire pour institutions fédérales et certaines entreprises  
+- **Norme CSA B651** : norme sur l’accessibilité des technologies de l’information  
+- WCAG 2.0 niveau AA comme référence principale
+
+---
+
+## Bonnes pratiques à suivre
+
+1. Fournir des **alternatives textuelles** pour images et icônes
+  Exemple : <img src="doctor.png" alt="Médecin souriant dans son cabinet">
+Les alternatives textuelles permettent aux lecteurs d’écran de décrire l’image (tester avec un lecteur d'écran).
+ 
+3. Maintenir un **contraste élevé** entre texte et fond (≥ 4.5:1)
+   Le contraste permet de distinguer le contenu du fond. Un mauvais contraste rend la lecture difficile (tester avec une vérificateur de contraste).
+   
+5. Assurer une **navigation complète au clavier** (tester manuellement) 
+6. Utiliser un **langage simple** et clair  
+7. Fournir un **feedback compréhensible** pour les erreurs  
+8. Éviter les **animations rapides ou clignotantes**  
+9. Tester avec **simulateurs de daltonisme, lecteurs d’écran et zoom**
+
