@@ -83,7 +83,7 @@ L’**accessibilité des interfaces** consiste à concevoir des interfaces numé
 ## Bonnes pratiques à suivre
 
 1. Fournir des **alternatives textuelles** pour images et icônes
-  Exemple : <img src="doctor.png" alt="Médecin souriant dans son cabinet">
+  Exemple : `<img src="doctor.png" alt="Médecin souriant dans son cabinet">`
 Les alternatives textuelles permettent aux lecteurs d’écran de décrire l’image (tester avec un lecteur d'écran).
  
 3. Maintenir un **contraste élevé** entre texte et fond (≥ 4.5:1)
